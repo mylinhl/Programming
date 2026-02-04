@@ -77,8 +77,8 @@ public class ParkeertariefCalculatorLauncher {
         System.out.println("Dag: " + parkeerDag);
         System.out.println("Starttijd: " + startTijdParkeren + ":00 uur");
         System.out.println("Aantal uren: " + parkeerTijd);
-        System.out.println("Tarief: €" + parkeerTarief + "0 per uur\n");
+        System.out.println("Tarief: €" + parkeerTarief + " per uur\n");
 
-        System.out.println("Totaal te betalen: €" + totaalTarief + "0");
+        System.out.println("Totaal te betalen: €" + totaalTarief);
     }
 }
